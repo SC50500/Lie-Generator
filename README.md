@@ -1,68 +1,39 @@
 # Lie-Generator
 
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        @keyframes hi  {
-            0% { transform: rotate( 0.0deg) }
-           10% { transform: rotate(14.0deg) }
-           20% { transform: rotate(-8.0deg) }
-           30% { transform: rotate(14.0deg) }
-           40% { transform: rotate(-4.0deg) }
-           50% { transform: rotate(10.0deg) }
-           60% { transform: rotate( 0.0deg) }
-          100% { transform: rotate( 0.0deg) }
-        }
+Project made for Fallout's Hackathon in Shenzhen.
 
-        @keyframes gradient {
-          0% {
-            background-position: 0% 50%;
-          }
-          50% {
-            background-position: 100% 50%;
-          }
-          100% {
-            background-position: 0% 50%;
-          }
-        }
+Created by Sophia Chan, Slyvia Lin, Trevor Lee, and Youna Son.
 
-        .container {
-          background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-          background-size: 400% 400%;
-          animation: gradient 15s ease infinite;
+[Onshape Link]()
 
-          width: 100%;
-          height: 300px;
+_____
+## What is our Lie-Generator?
 
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          color: white;
+This beautiful box with 2 LEDs, OLED, and speaker works to gaslight you into oblivion.
 
-          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-        }
+Powered by the AI, Deepseek, it aims to pressure until you're backed into a corner, believing the lies it told you. 
 
-        .hi {
-          animation: hi 1.5s linear -0.5s infinite;
-          display: inline-block;
-          transform-origin: 70% 70%;
-        }
+____
+## How to Use?
 
-        @media (prefers-reduced-motion) {
-          .container {
-            animation: none;
-          }
+Place your hand onto the indented area intended to hold your fingers and have a conversation with the AI. 
 
-          .hi {
-            animation: none;
-          }
-        }
-      </style>
+Depending on your choice of dialogue, the green LED illuminates up when it believes you have told the truth and the red LED lights up when you have presumably lied. 
 
-      <div class="container">
-        <h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
+Spoiling how it truly works would ruin the fun.
+
+However, you may one day be able to manipulate your pawns like Ayanokoji if you take the apprenticeship of our device. 
+
+___
+
+## Pictures and Resources (☆▽☆)
+
+CAD image:
+
+
+Physical Build:
+
+
+Demo video:
+
+_____
